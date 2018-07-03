@@ -6,6 +6,6 @@ serifs have been smoothed, and changes have been made to the
 'a','i','l','t','(', and ')' characters. Essentially, it's just a taller version
 of [lemon](https://github.com/phallus/fonts).
 
-<p>
+<p align='center'>
 <img src="repertoire.png" width=400px />
 </p> 
